@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+.vscode
+
+.eslintcache
+
+_npm-shrinkwrap.json
+npm-debug.log
+node_modules
+
+dist/
+
+package-lock.json
+coverage
