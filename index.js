@@ -1,2 +1,5 @@
+export { default as tooltips } from './react-components/tooltips'
 export { default as ConvertBase64ToBlob } from './utils/ConvertBase64ToBlob.js'
 export { default as CompressGeoJson } from './utils/CompressGeoJson.js'
+export { default as Guid } from './utils/Guid.js'
+export { default as GetImageBoxShadowData } from './utils/GetImageBoxShadowData.js'
